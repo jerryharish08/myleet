@@ -75,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/jerryharish08/myleet/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/jerryharish08/myleet/tree/master/0025-reverse-nodes-in-k-group) |
+## Math
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/jerryharish08/myleet/tree/master/0029-divide-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/jerryharish08/myleet/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
