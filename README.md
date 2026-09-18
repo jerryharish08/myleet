@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/jerryharish08/myleet/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/jerryharish08/myleet/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/jerryharish08/myleet/tree/master/0032-longest-valid-parentheses) |
+| [0067-add-binary](https://github.com/jerryharish08/myleet/tree/master/0067-add-binary) |
 ## Backtracking
 |  |
 | ------- |
@@ -95,10 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/jerryharish08/myleet/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/jerryharish08/myleet/tree/master/0067-add-binary) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/jerryharish08/myleet/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/jerryharish08/myleet/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -122,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/jerryharish08/myleet/tree/master/0037-sudoku-solver) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/jerryharish08/myleet/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
