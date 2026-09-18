@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/jerryharish08/myleet/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/jerryharish08/myleet/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/jerryharish08/myleet/tree/master/0037-sudoku-solver) |
+| [0068-text-justification](https://github.com/jerryharish08/myleet/tree/master/0068-text-justification) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/jerryharish08/myleet/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/jerryharish08/myleet/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/jerryharish08/myleet/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/jerryharish08/myleet/tree/master/0068-text-justification) |
 ## Backtracking
 |  |
 | ------- |
@@ -129,4 +131,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/jerryharish08/myleet/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/jerryharish08/myleet/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
