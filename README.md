@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/jerryharish08/myleet/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/jerryharish08/myleet/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/jerryharish08/myleet/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/jerryharish08/myleet/tree/master/0089-gray-code) |
 ## Linked List
 |  |
 | ------- |
@@ -130,11 +131,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/jerryharish08/myleet/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/jerryharish08/myleet/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/jerryharish08/myleet/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/jerryharish08/myleet/tree/master/0089-gray-code) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/jerryharish08/myleet/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/jerryharish08/myleet/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/jerryharish08/myleet/tree/master/0089-gray-code) |
 ## Sliding Window
 |  |
 | ------- |
