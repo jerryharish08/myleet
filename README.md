@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/jerryharish08/myleet/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/jerryharish08/myleet/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/jerryharish08/myleet/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/jerryharish08/myleet/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/jerryharish08/myleet/tree/master/0068-text-justification) |
 ## Two Pointers
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/jerryharish08/myleet/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/jerryharish08/myleet/tree/master/0032-longest-valid-parentheses) |
 | [0063-unique-paths-ii](https://github.com/jerryharish08/myleet/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/jerryharish08/myleet/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/jerryharish08/myleet/tree/master/0070-climbing-stairs) |
 ## Divide and Conquer
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/jerryharish08/myleet/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/jerryharish08/myleet/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/jerryharish08/myleet/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/jerryharish08/myleet/tree/master/0064-minimum-path-sum) |
 ## Algorithm X
 |  |
 | ------- |
