@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/jerryharish08/myleet/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/jerryharish08/myleet/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/jerryharish08/myleet/tree/master/0079-word-search) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jerryharish08/myleet/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/jerryharish08/myleet/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/jerryharish08/myleet/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/jerryharish08/myleet/tree/master/0061-rotate-list) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jerryharish08/myleet/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Sorting
 |  |
 | ------- |
