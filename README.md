@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/jerryharish08/myleet/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/jerryharish08/myleet/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/jerryharish08/myleet/tree/master/0068-text-justification) |
+| [0079-word-search](https://github.com/jerryharish08/myleet/tree/master/0079-word-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,12 +49,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/jerryharish08/myleet/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/jerryharish08/myleet/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/jerryharish08/myleet/tree/master/0068-text-justification) |
+| [0079-word-search](https://github.com/jerryharish08/myleet/tree/master/0079-word-search) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jerryharish08/myleet/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/jerryharish08/myleet/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/jerryharish08/myleet/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/jerryharish08/myleet/tree/master/0079-word-search) |
 ## Linked List
 |  |
 | ------- |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/jerryharish08/myleet/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/jerryharish08/myleet/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/jerryharish08/myleet/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/jerryharish08/myleet/tree/master/0079-word-search) |
 ## Algorithm X
 |  |
 | ------- |
@@ -153,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/jerryharish08/myleet/tree/master/0070-climbing-stairs) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/jerryharish08/myleet/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
