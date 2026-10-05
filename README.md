@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/jerryharish08/myleet/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/jerryharish08/myleet/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/jerryharish08/myleet/tree/master/0032-longest-valid-parentheses) |
+| [0065-valid-number](https://github.com/jerryharish08/myleet/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/jerryharish08/myleet/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/jerryharish08/myleet/tree/master/0068-text-justification) |
 ## Backtracking
