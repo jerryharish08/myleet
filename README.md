@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jerryharish08/myleet/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jerryharish08/myleet/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/jerryharish08/myleet/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/jerryharish08/myleet/tree/master/0085-maximal-rectangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/jerryharish08/myleet/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/jerryharish08/myleet/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/jerryharish08/myleet/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/jerryharish08/myleet/tree/master/0085-maximal-rectangle) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/jerryharish08/myleet/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/jerryharish08/myleet/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/jerryharish08/myleet/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/jerryharish08/myleet/tree/master/0085-maximal-rectangle) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/jerryharish08/myleet/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/jerryharish08/myleet/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/jerryharish08/myleet/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/jerryharish08/myleet/tree/master/0085-maximal-rectangle) |
 ## Algorithm X
 |  |
 | ------- |
@@ -174,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/jerryharish08/myleet/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/jerryharish08/myleet/tree/master/0085-maximal-rectangle) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
