@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/jerryharish08/myleet/tree/master/0119-pascals-triangle-ii) |
 | [0137-single-number-ii](https://github.com/jerryharish08/myleet/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/jerryharish08/myleet/tree/master/0139-word-break) |
+| [0149-max-points-on-a-line](https://github.com/jerryharish08/myleet/tree/master/0149-max-points-on-a-line) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jerryharish08/myleet/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/jerryharish08/myleet/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/jerryharish08/myleet/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jerryharish08/myleet/tree/master/0142-linked-list-cycle-ii) |
+| [0149-max-points-on-a-line](https://github.com/jerryharish08/myleet/tree/master/0149-max-points-on-a-line) |
 ## String
 |  |
 | ------- |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/jerryharish08/myleet/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/jerryharish08/myleet/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/jerryharish08/myleet/tree/master/0096-unique-binary-search-trees) |
+| [0149-max-points-on-a-line](https://github.com/jerryharish08/myleet/tree/master/0149-max-points-on-a-line) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -352,4 +355,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/jerryharish08/myleet/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jerryharish08/myleet/tree/master/0142-linked-list-cycle-ii) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/jerryharish08/myleet/tree/master/0149-max-points-on-a-line) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/jerryharish08/myleet/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/jerryharish08/myleet/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
