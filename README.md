@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/jerryharish08/myleet/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/jerryharish08/myleet/tree/master/0119-pascals-triangle-ii) |
 | [0137-single-number-ii](https://github.com/jerryharish08/myleet/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/jerryharish08/myleet/tree/master/0139-word-break) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jerryharish08/myleet/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jerryharish08/myleet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/jerryharish08/myleet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/jerryharish08/myleet/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/jerryharish08/myleet/tree/master/0139-word-break) |
 ## String
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/jerryharish08/myleet/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/jerryharish08/myleet/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/jerryharish08/myleet/tree/master/0115-distinct-subsequences) |
+| [0139-word-break](https://github.com/jerryharish08/myleet/tree/master/0139-word-break) |
 ## Backtracking
 |  |
 | ------- |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/jerryharish08/myleet/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/jerryharish08/myleet/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/jerryharish08/myleet/tree/master/0119-pascals-triangle-ii) |
+| [0139-word-break](https://github.com/jerryharish08/myleet/tree/master/0139-word-break) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -223,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/jerryharish08/myleet/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/jerryharish08/myleet/tree/master/0139-word-break) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -309,4 +314,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/jerryharish08/myleet/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/jerryharish08/myleet/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/jerryharish08/myleet/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/jerryharish08/myleet/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/jerryharish08/myleet/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
