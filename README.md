@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/jerryharish08/myleet/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/jerryharish08/myleet/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/jerryharish08/myleet/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/jerryharish08/myleet/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jerryharish08/myleet/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/jerryharish08/myleet/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jerryharish08/myleet/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jerryharish08/myleet/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/jerryharish08/myleet/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/jerryharish08/myleet/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/jerryharish08/myleet/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/jerryharish08/myleet/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/jerryharish08/myleet/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Bit Manipulation
 |  |
 | ------- |
