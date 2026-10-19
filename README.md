@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jerryharish08/myleet/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/jerryharish08/myleet/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/jerryharish08/myleet/tree/master/0119-pascals-triangle-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/jerryharish08/myleet/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/jerryharish08/myleet/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/jerryharish08/myleet/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/jerryharish08/myleet/tree/master/0088-merge-sorted-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/jerryharish08/myleet/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/jerryharish08/myleet/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/jerryharish08/myleet/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jerryharish08/myleet/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/jerryharish08/myleet/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Matrix
 |  |
 | ------- |
