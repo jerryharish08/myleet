@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/jerryharish08/myleet/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/jerryharish08/myleet/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jerryharish08/myleet/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0174-dungeon-game](https://github.com/jerryharish08/myleet/tree/master/0174-dungeon-game) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jerryharish08/myleet/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/jerryharish08/myleet/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/jerryharish08/myleet/tree/master/0119-pascals-triangle-ii) |
 | [0139-word-break](https://github.com/jerryharish08/myleet/tree/master/0139-word-break) |
+| [0174-dungeon-game](https://github.com/jerryharish08/myleet/tree/master/0174-dungeon-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/jerryharish08/myleet/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/jerryharish08/myleet/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/jerryharish08/myleet/tree/master/0085-maximal-rectangle) |
+| [0174-dungeon-game](https://github.com/jerryharish08/myleet/tree/master/0174-dungeon-game) |
 ## Algorithm X
 |  |
 | ------- |
