@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/jerryharish08/myleet/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jerryharish08/myleet/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0174-dungeon-game](https://github.com/jerryharish08/myleet/tree/master/0174-dungeon-game) |
+| [0179-largest-number](https://github.com/jerryharish08/myleet/tree/master/0179-largest-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jerryharish08/myleet/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/jerryharish08/myleet/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/jerryharish08/myleet/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/jerryharish08/myleet/tree/master/0148-sort-list) |
+| [0179-largest-number](https://github.com/jerryharish08/myleet/tree/master/0179-largest-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jerryharish08/myleet/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/jerryharish08/myleet/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/jerryharish08/myleet/tree/master/0139-word-break) |
 | [0171-excel-sheet-column-number](https://github.com/jerryharish08/myleet/tree/master/0171-excel-sheet-column-number) |
+| [0179-largest-number](https://github.com/jerryharish08/myleet/tree/master/0179-largest-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -395,4 +398,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/jerryharish08/myleet/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/jerryharish08/myleet/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/jerryharish08/myleet/tree/master/0178-rank-scores) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/jerryharish08/myleet/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
