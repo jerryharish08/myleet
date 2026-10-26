@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/jerryharish08/myleet/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/jerryharish08/myleet/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/jerryharish08/myleet/tree/master/0139-word-break) |
+| [0171-excel-sheet-column-number](https://github.com/jerryharish08/myleet/tree/master/0171-excel-sheet-column-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/jerryharish08/myleet/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/jerryharish08/myleet/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jerryharish08/myleet/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0171-excel-sheet-column-number](https://github.com/jerryharish08/myleet/tree/master/0171-excel-sheet-column-number) |
 ## Bit Manipulation
 |  |
 | ------- |
