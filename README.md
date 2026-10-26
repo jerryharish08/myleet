@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/jerryharish08/myleet/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jerryharish08/myleet/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/jerryharish08/myleet/tree/master/0171-excel-sheet-column-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/jerryharish08/myleet/tree/master/0172-factorial-trailing-zeroes) |
 ## Bit Manipulation
 |  |
 | ------- |
