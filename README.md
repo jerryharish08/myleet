@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/jerryharish08/myleet/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/jerryharish08/myleet/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jerryharish08/myleet/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0164-maximum-gap](https://github.com/jerryharish08/myleet/tree/master/0164-maximum-gap) |
 | [0174-dungeon-game](https://github.com/jerryharish08/myleet/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/jerryharish08/myleet/tree/master/0179-largest-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jerryharish08/myleet/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/jerryharish08/myleet/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/jerryharish08/myleet/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/jerryharish08/myleet/tree/master/0148-sort-list) |
+| [0164-maximum-gap](https://github.com/jerryharish08/myleet/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/jerryharish08/myleet/tree/master/0179-largest-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jerryharish08/myleet/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
@@ -403,4 +405,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/jerryharish08/myleet/tree/master/0179-largest-number) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/jerryharish08/myleet/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/jerryharish08/myleet/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/jerryharish08/myleet/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
